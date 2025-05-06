@@ -1,5 +1,3 @@
-# SSTAF-Riemann-Mobile
-
 # SSTAF Riemann Hypothesis Visualization
 
 This repository contains a Jupyter Notebook that visualizes the regularization of the Riemann zeta function \( \mathcal{R}\zeta(s) \) on the critical line (\( \text{Re}(s) = \frac{1}{2} \)) using the Spectral-Symmetric Theory of Analytic Functions (SSTAF). The visualization demonstrates the symmetry of \( |\mathcal{R}\zeta(s)| \), suppression of singularities, and supports the Riemann Hypothesis by excluding zeros off the critical line.
