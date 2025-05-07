@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 jupyter notebook sstaf_riemann_proof.ipynb
 
-U+1F4F7 Example Output
+## 📷 Example Output
 
 <p align="center">
   <img src="https://via.placeholder.com/600x300.png?text=Sample+Visualization" alt="Sample Visualization" width="600"/>
