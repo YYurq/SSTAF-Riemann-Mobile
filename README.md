@@ -106,6 +106,6 @@ Have questions? Reach out via GitHub Issues or connect on X
 .
 
 <p align="center">
-  <a href="https://x.com/your_username"><img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?logo=x" alt="Follow on X"></a>
+  <a href="https://x.com/YURQ"><img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?logo=x" alt="Follow on X"></a>
 </p>
 
