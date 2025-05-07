@@ -36,7 +36,7 @@
 
 ## 🚀 Setup and Running
 
-### Local Setup
+## 🛠 Local Setup
 
 1. **Clone the repository**:
    ```bash
@@ -53,59 +53,45 @@ jupyter notebook sstaf_riemann_proof.ipynb
   <img src="https://via.placeholder.com/600x300.png?text=Sample+Visualization" alt="Sample Visualization" width="600"/>
 </p>
 
- Documentation
+## 📚 Documentation 
 
 Theory: Based on the Spectral-Symmetric Theory of Analytic Functions (SSTAF). For details, refer to the original paper (#) (replace with actual link if available).
-
 
 
 Notebook: The sstaf_riemann_proof.ipynb file contains detailed comments and step-by-step visualizations.
 
 
- Contributing
+## 🤝 Contributing
 
 We welcome contributions! To get started:
 
 Fork the repository.
 
-
-
 Create a feature branch (git checkout -b feature-name).
-
-
 
 Commit your changes (git commit -m 'Add feature').
 
-
-
 Push to the branch (git push origin feature-name).
-
-
 
 Open a Pull Request.
 
-
 Please read our Contributing Guidelines (CONTRIBUTING.md) for more details.
 
- License
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
- Acknowledgments
+## 🙏 Acknowledgments
 
 Inspired by the Spectral-Symmetric Theory of Analytic Functions (SSTAF).
-
 
 Thanks to the open-source community for tools like numpy, matplotlib, and plotly.
 
 
- Contact
+## 📪 Contact
 
 Have questions? Reach out via GitHub Issues or connect on X
-
-.
 
 <p align="center">
   <a href="https://x.com/YURQ"><img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?logo=x" alt="Follow on X"></a>
 </p>
-
